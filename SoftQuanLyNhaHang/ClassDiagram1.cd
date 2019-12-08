@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SoftQuanLyNhaHang.Controllers.BanCtrl" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIACAAAAAAAAgAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Controllers\BanCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Controllers.DangNhap" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\DangNhap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Controllers.GoiMonCtrl" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAQAA=</HashCode>
+      <FileName>Controllers\GoiMonCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Controllers.HoaDonCtrl" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAABBAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Controllers\HoaDonCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Controllers.KhachHangCtrl" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAACAAAAAAAAgAAAAAEAAAAA=</HashCode>
+      <FileName>Controllers\KhachHangCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Controllers.KhuVucCtrl" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAABQAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\KhuVucCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Controllers.LoaiThucDonCtrl" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAgACAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\LoaiThucDonCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Controllers.NhanVienCtrl" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAgAAAAAAACAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\NhanVienCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Controllers.ThucDonCtrl" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAACAAAACAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\ThucDonCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Models.BanMod" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIACBAAAAAAAgAAAAAQAAAAAAAAAAACAgAAAABGE=</HashCode>
+      <FileName>Models\BanMod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Models.connection" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAEAAACAIAACAAABAAAAAEIAAAAATAII=</HashCode>
+      <FileName>Models\connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Models.DangNhap" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\DangNhap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Models.GoiMonMod" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAABAAAAQAAAACAAAgQAAQAABIAAAQQAAAAgAZAA=</HashCode>
+      <FileName>Models\GoiMonMod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Models.HoaDonMod" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAEEAABBAAAIAAQABAAAABAAAAAAAAAAAEAE=</HashCode>
+      <FileName>Models\HoaDonMod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Models.KhachHangMod" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACAAAAAAACAAAACEAAAAAAIgAAAAIAAASAA=</HashCode>
+      <FileName>Models\KhachHangMod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Models.KhuVucMod" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAgAAABUAAAAAAAAAAAAEBABAAACE=</HashCode>
+      <FileName>Models\KhuVucMod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Models.LoaiThucDonMod" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAgAACABAAAAAAAAAgACAEAAAAAQCAAAAAAAAAAAE=</HashCode>
+      <FileName>Models\LoaiThucDonMod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Models.NhanVienMod" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAoABAAAAAAAAAAAAogAAAAAICAAIAAAAoAAAEABAA=</HashCode>
+      <FileName>Models\NhanVienMod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Models.ThucDonMod" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAhAABAQACAAAgCAAIAAAIAAAAACAAAgAAAAAAA=</HashCode>
+      <FileName>Models\ThucDonMod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Models.UserControl" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\UserControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Program" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAACAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Views.frmDangNhap" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAQACAAABEAQACAAAACAAAABAAAACAAAAAEAAA=</HashCode>
+      <FileName>Views\frmDangNhap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Views.frmMain" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAAAAmAIMCORGCBQCaCAaqECKgAJQARgAAyDAAGACAA=</HashCode>
+      <FileName>Views\frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Views.uctBan" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAAgoAJACQACjAAAIGAgQACAIACAEACECAaCACAACE=</HashCode>
+      <FileName>Views\uctBan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Views.uctDanhSachTD" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBAAAABAATAQAAAABgCAAAACAIAAEAACAAAAAAAAAAA=</HashCode>
+      <FileName>Views\uctDanhSachTD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Views.uctGoiMon" Collapsed="true">
+    <Position X="11.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgQgEIQSkgAJQABASAYAACAIQAEEAAQKMhAAQECAA=</HashCode>
+      <FileName>Views\uctGoiMon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Views.uctKhachHang" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>VgAAwIIAgCQAEDACAICAgAAHAEACAEACACICKACAiCE=</HashCode>
+      <FileName>Views\uctKhachHang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Views.uctKhuVuc" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UhQAgIAQACQAADEAAICAgAADAAAASEACACICCBDAASE=</HashCode>
+      <FileName>Views\uctKhuVuc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Views.uctLoaiThucDon" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UhgAgIAEADQAADgAQIDAgAAHAAAAAEACACIDCQSAACE=</HashCode>
+      <FileName>Views\uctLoaiThucDon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Views.uctMonDaGoi" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAIEIJAACQaATACAICAgQACAAAAIEEiACAiGQiEQCE=</HashCode>
+      <FileName>Views\uctMonDaGoi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Views.uctNhanVien" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UgAAwICAACQAgDCAAIOAgAgHgAQIQEACQCBCKACAISM=</HashCode>
+      <FileName>Views\uctNhanVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftQuanLyNhaHang.Views.uctThucDon" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ElAAgIFAATQQADAIBoCAgAACCIAIEEACISAiCACEACE=</HashCode>
+      <FileName>Views\uctThucDon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
